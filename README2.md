@@ -20,6 +20,7 @@
  - *Task lists*
    - [x] Do my homework
    - [ ] Clean my room
+   - [ ] get up early 
  - *Tables*
  - *Mentioning people and teams*
    - @yassen  
