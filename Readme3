@@ -1,0 +1,32 @@
+
+# Text Editor: a piece of software, that allow to write and manage text to build a web site.
+
+- features for text editor:
+  * code completion.
+  * syntax highlighting.
+  * nice varity of themes.
+  
+  
+- Third-party options:
+  * NotePad++
+  * Text wrangler/BB Edit
+  * Visual studio Code
+  * Atom
+  * Brackets
+  * Sublime Text
+  
+ The Defference Between Text Editors and IDEs:
+  
+  - Text Editor: kind of gives away what it does in the title.
+     1. edit text
+     2. manages text
+     3. manages file
+     
+  - IDE(Integrated Development Environment): suite of different software all coming together.
+      1. text editor 
+      2. file manager 
+      3. dubugger all in one software package 
+   
+   ` IDE very much like Microsoft outlook`
+    
+  
