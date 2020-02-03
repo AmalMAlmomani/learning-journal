@@ -54,7 +54,7 @@
       - file.exe - an executable file, or program.
       - file.txt - a plain text file.
       - file.png, file.gif, file.jpg - an image.
-      - **file [path]**
+      - file [path]
       
    1. file: obtain information about what type of file a file or directory is.
    2. ls -a: List the contents of a directory, including hidden files.
