@@ -2,7 +2,7 @@
   - Input:converts physical input to binary information (GPS, keyboard,..)
   - CPU:central processing unit calculates information( multiple CPU)
   - Memory:stores information (many gigabit)
-  - Outout:converts information to physical output(screen, sound,video, games,..)
+  - Output:converts information to physical output(screen, sound,video, games,..)
   
   ## Circuits and logical 
    - million of tiny electronic components which come together to form circuits
@@ -18,9 +18,9 @@
  ### 4 things are common to all computer:
     take input , store information , processing , output the result.
 
- ### Hardware: stuff, circuits, chips, wires, plucs, speakers
+ ### Hardware: stuff, circuits, chips, wires, speakers
  
- ### Software: all programming code running on machine (Aoos, games, website, maps, creative, Analysis)
+ ### Software: all programming code running on machine (Apps, games, website, maps, creative, Analysis)
  
  ### CPU: master chip that content all the other parts of the computer 
      - which circuits to use
