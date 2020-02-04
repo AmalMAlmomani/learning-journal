@@ -3,7 +3,7 @@
 - **CSS allows you to create rules that specify how the content of an element should appear.**
 - **A CSS rule contains two parts:** *a selector and a declaration.*
 - CSS declarations sit inside curly brackets and each is made up of two parts: a property and a value, separated by a colon. You can specify several properties in one declaration, each separated by a semi-colon.
-  - <link>:It is an empty element (meaning it does not need a closing tag), and it lives inside the <head> element.
+  - `<link>`:It is an empty element (meaning it does not need a closing tag), and it lives inside the `<head>` element.
    - href: This specifies the path to the CSS file
    - rel: This specifies the relationship between the HTML page and the file it is linked to. The value should be stylesheet when linking to a CSS file.
  - external CSS style sheet. This:
